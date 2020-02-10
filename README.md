@@ -14,6 +14,6 @@ After agreeing to the installation, you might have to wait a few moments. Once i
 
 - On this github page, click on the green ‘clone or download’ button. Then select ‘Download ZIP’. Unzip this file into a directory of your choice.
 - Back on the command line, navigate to the same directory that you unzipped the file into.
-- Type and run the command: `Jupyter notebook`
+- Type and run the command: `jupyter notebook`
 - In your web browser, a jupyter homepage should appear. Open the ‘PMR_tutorial_3.ipynb’ file.
 - If you’re not familiar with jupyter notebooks, consider watching a short [introduction](https://www.coursera.org/lecture/python-project/introduction-to-jupyter-notebooks-UTXU5).
